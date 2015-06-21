@@ -5,7 +5,7 @@ Agnostic tool for user context detection and interpretation.
 ## Important disclaimer
 PythiaJS retrieve data about the user and store it in the user's browser via localStorage to analyse it and detect contextual information, behavioral patterns... As all the data is stored within the user's browser, it can be modified, deleted and thus is not 100% relialable. Always use data from PythiaJS with caution.
 
-## <a name="gettingstarted">Getting started</a>
+## Getting started
 Include PythiaJS into your HTML file(s)
 
 ```
@@ -15,6 +15,9 @@ Initialise the PyhtiaJS by calling the init method
 ```
 pyhtia.init()
 ```
+
+## What is it for?
+TODO
 
 ## How does it work?
 TODO
