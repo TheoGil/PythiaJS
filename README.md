@@ -1,3 +1,4 @@
+![PythiaJS](http://i.imgur.com/y2bCJrs.jpg "PythiaJS")
 # PythiaJS
 Agnostic tool for user context detection and interpretation
 
